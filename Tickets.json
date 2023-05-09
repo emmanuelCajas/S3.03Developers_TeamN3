@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "64479f60c53862713700fe54"
+  },
+  "ticketID": 8,
+  "product": [
+    {
+      "productId": 1,
+      "name": "rose",
+      "price": 4.8,
+      "quantity": 3
+    },
+    {
+      "productId": 2,
+      "name": "dahlia",
+      "price": 4.8,
+      "quantity": 2
+    },
+    {
+      "productId": 3,
+      "name": "oak",
+      "price": 3.5,
+      "quantity": 2
+    }
+  ],
+  "totalAmount": 31,
+  "date": {
+    "$date": "2023-04-25T09:37:36.098Z"
+  }
+}]

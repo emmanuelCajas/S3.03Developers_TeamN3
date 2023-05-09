@@ -1,0 +1,38 @@
+
+{
+  "productId": 1,
+  "type":"flower",
+  "name": "rose",
+  "price": 4.8,
+  "quantity": 18,
+  "feature": "red"
+}
+
+{
+  "productId": 2,
+  "type":"flower",
+  "name": "dahlia",
+  "price": 4.8,
+  "quantity": 15,
+  "feature": "blue"
+}
+
+{
+  "productId": 3,
+  "type":"tree",
+  "name": "oak",
+  "price":3.5,
+  "quantity": 32,
+  "feature": "1.5"
+}
+
+
+{
+    "productId": 4,
+    "type":"decoration",
+    "name": "jar",
+    "price": 10.1,
+    "quantity": 24,
+    "feature": "plastic"
+  }
+
